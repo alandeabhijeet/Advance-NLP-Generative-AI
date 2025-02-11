@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "*.ejs": "html",
-        "vector": "cpp"
+        "vector": "cpp",
+        "deque": "cpp",
+        "format": "cpp",
+        "list": "cpp",
+        "xstring": "cpp"
     }
 }
