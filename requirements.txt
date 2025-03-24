@@ -14,3 +14,5 @@ altair
 wandb
 spacy
 torchinfo
+langchain-core
+langchain-community
